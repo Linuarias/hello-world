@@ -3,7 +3,7 @@ This is the first repository I create
 ----------------
 
 Hello my friends,
-This is my first intented contibution to the internet.
+This is my first intended contribution to the internet. 
 I want to code.
 I want to share knowledge.
 
